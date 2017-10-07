@@ -1,0 +1,13 @@
+.barra{
+	position: absolute;
+	right: 100px;
+}
+img{
+	height: 50px;
+	width: 50px;
+	top: -15px;
+	position: relative;
+}
+div.mov{
+	margin-top: 60px;
+}

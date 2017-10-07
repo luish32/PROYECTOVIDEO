@@ -1,0 +1,51 @@
+
+
+.barra{
+	position: absolute;
+	right: 100px;
+}
+img#img1{
+	height: 50px;
+	width: 50px;
+	top: -15px;
+	position: relative;
+}
+
+img.img2{
+	width: 390px;
+	height: 340px;
+}
+img.img2:hover {
+	transition: all 0.5s;
+  	-webkit-transform: scale(1.1);
+  	transform: scale(1.1);
+}
+div.col1{
+	width: 410px;
+	vertical-align: top;
+
+	
+	display: inline-block;
+	
+}
+
+div.mov{
+	margin-top: 40px;
+}
+
+div.mov2{
+	-webkit-box-shadow: 2px -1px 12px -2px rgba(212,212,212,0.78);
+	-moz-box-shadow: 2px -1px 12px -2px rgba(212,212,212,0.78);
+	box-shadow: 2px -1px 12px -2px rgba(212,212,212,0.78);
+}
+section.caja{
+
+	width: 200px;
+	height: 200px;
+	background-size: cover;
+	
+}
+
+
+
+
